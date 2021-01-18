@@ -1,6 +1,6 @@
 # Theme Changer
 
-![](https://gifyu.com/image/FOY3)
+[![theme.gif](https://s2.gifyu.com/images/theme.gif)](https://gifyu.com/image/FOY3)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
