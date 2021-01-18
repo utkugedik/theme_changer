@@ -1,7 +1,6 @@
-# dynamic_theme
+# Theme Changer
 
-A new Flutter project.
-
+![](https://gifyu.com/image/FOY3)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
